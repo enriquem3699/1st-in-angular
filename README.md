@@ -1,3 +1,7 @@
+# About MiApp
+
+This is my 1st application with Angular CLI, it's wonderful this technology :) !!
+
 # MiApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
