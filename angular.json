@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "miApp"
+  "defaultProject": "miApp",
+  "cli": {
+    "analytics": "b9d9601b-9349-469e-954d-828850b3e5b0"
+  }
 }
